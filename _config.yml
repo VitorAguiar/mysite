@@ -1,1 +1,11 @@
+# basic options
+title: Laboratory of Evolutionary Genetics
+author: Diogo Meyer
+email: diogo@ib.usp.br
+description: Institute of Biosciences, University of São Paulo
+twitter_username: mayer_diogo
+github_username: diogomeyer
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman
