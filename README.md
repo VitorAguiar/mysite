@@ -2,4 +2,3 @@
 
 ![alt text](logo.jpeg)
 
-[About](about.md)
