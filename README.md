@@ -1,1 +1,1 @@
-# Laboratory of Evolutinary Genetics
+# Laboratory of Evolutionary Genetics
