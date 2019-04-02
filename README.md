@@ -1,3 +1,2 @@
 
-![alt text](logo.jpeg)
 
