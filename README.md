@@ -1,3 +1,6 @@
+---
+layout: home
+title: Laboratory of Evolutionary Genetics 
+---
 
-Laboratory of Evolutionary Genetics
 
